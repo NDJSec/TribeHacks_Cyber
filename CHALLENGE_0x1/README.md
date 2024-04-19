@@ -14,6 +14,7 @@ After having been settled for a while, the 3 reconvined in the main room to find
 \- P"
 
 ## MISSION
-You have been selected to be the reverse engineer for the Shadow Coalition. Your first mission, should you choose to accept is to decrypt the satilate message and report it back to Cyber Command with your findings. 
+You have been selected to be the reverse engineer for the Shadow Coalition. Your first mission, should you choose to accept, is to decrypt the satilate message and report it back to Cyber Command with your findings. 
 
 ## HINT
+Sometimes it takes blending the digital recipe of a culinary expert with the mysterious mechanics of a legendary machine.
