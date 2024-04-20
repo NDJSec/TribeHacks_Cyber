@@ -22,7 +22,7 @@ Just then the screen cuts to black, and a faint buzz begins to be heard in the b
 "Some figure out where it is coming from and shut this down! Plus when is the new guy getting here? We need him now." - The Commander
 
 ## MISSION
-You have been selected to be the reverse engineer for the Shadow Coalition. Your mission, should you choose to accept, is to indenify the strange app on this phone and figure out what the Black Cypher is hiding. Collect your findings and report it back to Cyber Command.
+You have been selected to be the reverse engineer for the Shadow Coalition. Your mission, should you choose to accept, is to idenify the strange app on this phone and figure out what the Black Cypher is hiding. Collect your findings and report it back to Cyber Command.
 
 ## HINT
 Some times to understand someones secrets you need to understand their native lounge. 
